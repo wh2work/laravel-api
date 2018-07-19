@@ -1,29 +1,26 @@
 {
-    "name": "wh2work/laravel-frame",
+    "name": "wh2work/laravel-api",
     "description": "扩展laravel框架",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "HaydenZhou",
-            "email": "mfkhao2009@outlook.com"
+            "name": "Millyn",
+            "email": "millyn@qq.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
-            "Wh2Work\\LaravelFrame\\": "src/"
+            "Wh2Work\\LaravelApi\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Wh2Work\\LaravelFrame\\LaravelFrameServiceProvider"
+                "Wh2Work\\LaravelApi\\LaravelFrameServiceProvider"
             ]
-        },
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
         }
     }
 }
