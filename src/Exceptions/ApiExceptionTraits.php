@@ -1,5 +1,5 @@
 <?php
-namespace Wh2Work\LaravelFrame\Exceptions;
+namespace Wh2Work\LaravelApi\Exceptions;
 
 use Exception;
 use Symfony\Component\HttpFoundation\Response;

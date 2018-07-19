@@ -1,6 +1,6 @@
 <?php
 
-namespace Wh2Work\LaravelFrame;
+namespace Wh2Work\LaravelApi;
 
 use Illuminate\Support\ServiceProvider;
 

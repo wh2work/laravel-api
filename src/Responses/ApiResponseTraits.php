@@ -1,6 +1,6 @@
 <?php
 
-namespace Wh2Work\LaravelFrame\Responses;
+namespace Wh2Work\LaravelApi\Responses;
 
 use Symfony\Component\HttpFoundation\Response as FoundationResponse;
 use Response;

@@ -5,7 +5,7 @@
  * Time: 上午10:38
  */
 
-namespace Wh2Work\LaravelFrame\Base;
+namespace Wh2Work\LaravelApi\Base;
 
 
 interface BaseRepositoryInterface

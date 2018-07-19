@@ -5,7 +5,7 @@
  * Time: 上午10:18
  */
 
-namespace Wh2Work\LaravelFrame\Base;
+namespace Wh2Work\LaravelApi\Base;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
