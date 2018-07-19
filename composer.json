@@ -1,0 +1,29 @@
+{
+    "name": "wh2work/laravel-frame",
+    "description": "扩展laravel框架",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HaydenZhou",
+            "email": "mfkhao2009@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wh2Work\\LaravelFrame\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Wh2Work\\LaravelFrame\\LaravelFrameServiceProvider"
+            ]
+        },
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
